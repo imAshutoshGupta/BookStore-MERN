@@ -11,9 +11,7 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+            Embark on a literary journey with bookStore, the online book wonderland nestled in Thane since 2018. We take pride in being sustainable and eco friendly - from new releases to treasured pre-loved books. And wait, there's more! Dive into the sea of bookish merchandise that'll make any bookworm's heart flutter. Join bookStore and let sustainable reading ignite your imagination!
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
